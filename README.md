@@ -304,4 +304,4 @@ MIN_SUPPLIER_RELIABILITY    default 0.6
 
 ## Demo
 
-Go to https://frontend-three-sigma-39.vercel.app and click "Continue as Demo User" — no account needed. To test the full flow, go to the Dashboard and click "Analyze All" to run the decision engine on all three sample shipments. Then click any row to see the full breakdown including the map, scenario comparison, and audit trail.
+Go to https://frontend-three-sigma-39.vercel.app and account needed. To test the full flow, go to the Dashboard and click "Analyze All" to run the decision engine on all three sample shipments. Then click any row to see the full breakdown including the map, scenario comparison, and audit trail.
